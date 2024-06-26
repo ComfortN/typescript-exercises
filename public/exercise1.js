@@ -1,0 +1,12 @@
+"use strict";
+let naming = "Hi! I'm Comfort Ngwenya";
+console.log(naming);
+let age = 28;
+console.log(age);
+let lesson = "Typescript exercise";
+lesson = 2;
+lesson = true;
+console.log(lesson);
+let value = "First lesson";
+value = 1;
+console.log(value);
